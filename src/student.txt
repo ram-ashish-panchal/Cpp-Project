@@ -1,0 +1,4 @@
+Ashish		237048		2022		Btech		AIML		B		
+Vedang		237039		2022		Btech		AIML		B		
+Om		237046		2022		Btech		AIML		B		
+Sitaram		237000		2022		Btech		AIML		B		
